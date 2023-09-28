@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Poo_aulas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Poo_aulas/Projetos/cofre" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Poo_aulas/Projetos/conta-bancaria-simples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Poo_aulas/Projetos/motoca" vcs="Git" />
+  </component>
+</project>
