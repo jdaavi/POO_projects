@@ -1,6 +1,6 @@
 import unittest
 
-from POO_projects.Scripts.conta import Conta
+from POO_projects.Scripts.projetos_peso1.conta.conta import Conta
 
 
 class TestConta(unittest.TestCase):
