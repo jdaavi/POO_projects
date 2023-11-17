@@ -1,4 +1,4 @@
-from POO_projects.Scripts.projetos_peso1.motoca.pessoa import Pessoa
+from POO_projects.Scripts import Pessoa
 
 class Motoca:
 

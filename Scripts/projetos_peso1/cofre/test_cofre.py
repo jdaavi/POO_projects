@@ -1,9 +1,9 @@
 import unittest
 from enum import Enum
 
-from POO_projects.Scripts.projetos_peso1.cofre.cofre import Cofre
-from POO_projects.Scripts.projetos_peso1.conta.item import Item
-from POO_projects.Scripts.projetos_peso1.conta.moeda import Moeda
+from POO_projects.Scripts import Cofre
+from POO_projects.Scripts import Item
+from POO_projects.Scripts import Moeda
 
 
 class TestCofre(unittest.TestCase):

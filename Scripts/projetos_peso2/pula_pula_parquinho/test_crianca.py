@@ -1,6 +1,6 @@
 import unittest
 
-from POO_projects.Scripts.projetos_peso2.pula_pula_parquinho.crianca import Crianca
+from POO_projects.Scripts import Crianca
 
 
 class CriancaTest(unittest.TestCase):
